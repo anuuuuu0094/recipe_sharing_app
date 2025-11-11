@@ -65,15 +65,6 @@ Key modules include:
 
 ---
 
-## 📸 Screenshots
-
-| Home Page | Recipe Detail | Add Recipe |
-|------------|---------------|-------------|
-| ![Home](assets/screenshots/home.png) | ![Detail](assets/screenshots/detail.png) | ![Add](assets/screenshots/add.png) |
-
-*(Replace with actual screenshots from your project.)*
-
----
 
 ## 🔐 Security Features
 
